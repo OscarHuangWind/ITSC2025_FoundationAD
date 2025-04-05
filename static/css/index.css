@@ -140,7 +140,7 @@ body {
 }
 
 section.background {
-  background-image: url('../images/itsc2025.png');  /* 这里的 URL 是图片的路径 */
+  background-image: url('../images/itsc2025_new.png');  /* 这里的 URL 是图片的路径 */
   background-repeat: no-repeat;             /* 背景图片不重复 */
   background-size: cover;                    /* 背景图片覆盖整个元素 */
   background-position: center;               /* 背景图片居中显示 */
